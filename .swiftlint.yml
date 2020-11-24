@@ -23,7 +23,7 @@ type_body_length:
   warning: 400
 
 function_parameter_count:
-  warning: 8
+  warning: 9
 
 cyclomatic_complexity:
   warning: 12
